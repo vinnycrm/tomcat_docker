@@ -1,9 +1,9 @@
 Tomcat Dockerfile
 ==================
 
-Based on OpenJdk 9 Tomcat Dockerfile...
+Based on tomcat 9 Tomcat Dockerfile...
 
-This repo contains a recipe for making Docker container for Tomcat on OpenJdk.
+This repo contains a recipe for making Docker container for Tomcat.
 
 Setup
 -----
